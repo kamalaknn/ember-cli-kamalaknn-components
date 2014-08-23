@@ -8,8 +8,8 @@ module.exports = {
       production: 'vendor/bootstrap/dist/css/bootstrap.min.css'
     });
     this.app.import({
-      development: 'vendor/bootstrap/dist/js/bootstrap.js',
-      production: 'vendor/bootstrap/dist/js/bootstrap.min.js'
+      development: 'vendor/bootstrap/dist/css/bootstrap.js',
+      production: 'vendor/bootstrap/dist/css/bootstrap.min.js'
     });
   }
 }
