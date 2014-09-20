@@ -6,6 +6,9 @@ module.exports = {
   //   };
   // }
 
+  normalizeEntityName: function() {
+    //dont require enitiy name
+  },
   afterInstall: function(options) {
     this.addBowerPackageToProject('bootstrap');
   }
