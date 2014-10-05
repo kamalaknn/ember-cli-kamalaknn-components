@@ -1,3 +1,3 @@
-import KkModalComponent from 'ember-cli-kamalaknn-components/components/kk-modal/component';
+import KkModal from 'ember-cli-kamalaknn-components/components/kk-modal/component';
 
-export default KkModalComponent.extend();
+export default KkModal.extend();
