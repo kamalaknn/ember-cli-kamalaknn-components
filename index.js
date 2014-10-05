@@ -3,7 +3,8 @@ module.exports = {
   included: function(app) {
     this.app = app;
     
-    this.app.import('vendor/bootstrap/dist/css/bootstrap.css');
-    this.app.import('vendor/bootstrap/dist/js/bootstrap.js');
+    this.app.import(this.app.bowerDirectory + '/bootstrap/dist/css/bootstrap.css');
+    this.app.import(this.app.bowerDirectory + '/bootstrap/js/modal.js');
+    this.app.import(this.app.bowerDirectory + '/bootstrap/js/transition.js');
   }
 }
