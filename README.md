@@ -1,4 +1,4 @@
-# Ember-cli-kamalaknn-components
+# Ember-cli-kamalaknn-components [![Build Status](https://travis-ci.org/kamalaknn/ember-cli-kamalaknn-components.svg?branch=master)](https://travis-ci.org/kamalaknn/ember-cli-kamalaknn-components)
 
 This README outlines the details of collaborating on this Ember addon.
 
